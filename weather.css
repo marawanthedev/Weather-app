@@ -1,0 +1,29 @@
+h1,h3{
+    font-family: 'Oswald', sans-serif;
+    padding-top: 2%;
+ 
+  
+
+}
+
+.container{
+    font-family: 'Poppins', sans-serif;
+    
+}
+button{
+    padding-bottom: 2%;
+}
+img{
+    width: 60px;
+    margin-bottom: 10px;
+}
+body{
+
+    background: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    image-rendering: pixelated;
+}
+#catch{
+    background: red;
+}
